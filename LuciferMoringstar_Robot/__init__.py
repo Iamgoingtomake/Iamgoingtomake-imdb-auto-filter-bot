@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Hyetelegram Bots ](
-https://t.me/HyetelegramBots)
+➥ Creator : [Hyetelegram Bots](https://t.me/HyetelegramBots)
+
 
 ➥ Language : Python3
 
