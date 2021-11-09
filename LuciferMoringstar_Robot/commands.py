@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 LOG_CHANNEL = BROADCAST_CHANNEL
 
 db = Database(DB_URL, SESSION)
-
+PICS= "https://telegra.ph/file/91879ceda58f001a1640a.jpg"
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
     chat_id = message.from_user.id
